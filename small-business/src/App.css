@@ -1,0 +1,86 @@
+.appbar {
+  color: white;
+}
+
+.nav-list {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+ul a {
+  text-decoration: none;
+  color: white;
+  padding-right: 20px;
+}
+
+a {
+  color: black;
+}
+
+.maintable {
+  width: 88%;
+  padding-left: 110px;
+  padding-top: 80px;
+}
+
+.firstrow {
+  width: 40px;
+}
+
+.secondrow {
+  width: 800px;
+}
+
+.thirdrow {
+  width: 20px;
+}
+
+.fourthrow {
+  width: 40px;
+}
+
+table {
+  border-radius: none;
+}
+
+.login-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.details ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 615px;
+}
+
+.newlistings {
+  padding-top: 40px;
+  padding-left: 40px;
+  display: flex;
+  gap: 5px;
+}
+
+input {
+  border-bottom: 1px solid lightgrey;
+}
+
+img {
+  padding: 0px;
+}
